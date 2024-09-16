@@ -1,0 +1,17 @@
+/* Custom scrollable ul with fixed height */
+.scrollable-ul {
+    max-height: 150px;
+    overflow-y: scroll;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  /* Custom styling for li elements */
+  .scrollable-ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+  }
+  

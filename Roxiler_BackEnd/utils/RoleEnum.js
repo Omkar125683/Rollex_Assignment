@@ -1,0 +1,1 @@
+exports.roleEnum = ['Admin', 'User', 'StoreOwner']

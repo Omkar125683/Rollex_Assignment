@@ -1,0 +1,109 @@
+2024-09-15T08:20:05.878Z [INFO]: MongoDB Connected: localhost
+2024-09-15T08:20:05.897Z [INFO]: No Admin found, creating initial admin...
+2024-09-15T08:20:05.989Z [INFO]: Admin user created successfully
+2024-09-15T08:55:13.070Z [INFO]: MongoDB Connected: localhost
+2024-09-15T08:55:13.096Z [INFO]: No Admin found, creating initial admin...
+2024-09-15T08:55:13.187Z [ERROR]: Error seeding admin user: E11000 duplicate key error collection: storeRatings.users index: email_1 dup key: { email: "admin@roxiler.com" }
+2024-09-15T09:01:33.468Z [INFO]: MongoDB Connected: localhost
+2024-09-15T09:01:33.496Z [INFO]: No Admin found, creating initial admin...
+2024-09-15T09:01:33.584Z [ERROR]: Error seeding admin user: E11000 duplicate key error collection: storeRatings.users index: email_1 dup key: { email: "admin@roxiler.com" }
+2024-09-15T09:03:11.483Z [INFO]: MongoDB Connected: localhost
+2024-09-15T09:03:11.485Z [INFO]: Admin
+2024-09-15T09:03:11.519Z [INFO]: No Admin found, creating initial admin...
+2024-09-15T09:03:11.604Z [ERROR]: Error seeding admin user: E11000 duplicate key error collection: storeRatings.users index: email_1 dup key: { email: "admin@roxiler.com" }
+2024-09-15T09:04:04.779Z [INFO]: MongoDB Connected: localhost
+2024-09-15T09:04:04.782Z [INFO]: Admin
+2024-09-15T09:04:04.805Z [INFO]: No Admin found, creating initial admin...
+2024-09-15T09:04:04.888Z [INFO]: Admin user created successfully
+2024-09-15T09:04:12.907Z [INFO]: MongoDB Connected: localhost
+2024-09-15T09:04:12.910Z [INFO]: Admin
+2024-09-15T09:04:12.932Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T09:12:32.199Z [INFO]: MongoDB Connected: localhost
+2024-09-15T09:12:32.201Z [INFO]: Admin
+2024-09-15T09:12:32.224Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T14:44:53.861Z [INFO]: MongoDB Connected: localhost
+2024-09-15T14:44:53.863Z [INFO]: Admin
+2024-09-15T14:44:53.890Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T14:49:07.128Z [INFO]: MongoDB Connected: localhost
+2024-09-15T14:49:07.131Z [INFO]: Admin
+2024-09-15T14:49:07.156Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T14:52:06.574Z [INFO]: MongoDB Connected: localhost
+2024-09-15T14:52:06.577Z [INFO]: Admin
+2024-09-15T14:52:06.606Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:01:33.316Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:01:33.319Z [INFO]: Admin
+2024-09-15T17:01:33.342Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:05:34.579Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:05:34.581Z [INFO]: Admin
+2024-09-15T17:05:34.607Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:10:06.281Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:10:06.284Z [INFO]: Admin
+2024-09-15T17:10:06.313Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:13:13.398Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:13:13.400Z [INFO]: Admin
+2024-09-15T17:13:13.425Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:15:05.377Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:15:05.379Z [INFO]: Admin
+2024-09-15T17:15:05.402Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T17:23:18.658Z [INFO]: MongoDB Connected: localhost
+2024-09-15T17:23:18.662Z [INFO]: Admin
+2024-09-15T17:23:18.690Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T18:04:18.644Z [INFO]: MongoDB Connected: localhost
+2024-09-15T18:04:18.646Z [INFO]: Admin
+2024-09-15T18:04:18.670Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T18:30:45.867Z [INFO]: MongoDB Connected: localhost
+2024-09-15T18:30:45.870Z [INFO]: Admin
+2024-09-15T18:30:45.897Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T19:04:12.207Z [INFO]: MongoDB Connected: localhost
+2024-09-15T19:04:12.210Z [INFO]: Admin
+2024-09-15T19:04:12.235Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T20:00:06.038Z [INFO]: MongoDB Connected: localhost
+2024-09-15T20:00:06.041Z [INFO]: Admin
+2024-09-15T20:00:06.067Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T20:19:10.927Z [INFO]: MongoDB Connected: localhost
+2024-09-15T20:19:10.929Z [INFO]: Admin
+2024-09-15T20:19:10.957Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T20:20:08.615Z [INFO]: MongoDB Connected: localhost
+2024-09-15T20:20:08.618Z [INFO]: Admin
+2024-09-15T20:20:08.648Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T20:28:53.970Z [INFO]: MongoDB Connected: localhost
+2024-09-15T20:28:53.972Z [INFO]: Admin
+2024-09-15T20:28:54.004Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T21:45:04.160Z [INFO]: MongoDB Connected: localhost
+2024-09-15T21:45:04.162Z [INFO]: Admin
+2024-09-15T21:45:04.190Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T23:04:40.525Z [INFO]: MongoDB Connected: localhost
+2024-09-15T23:04:40.529Z [INFO]: Admin
+2024-09-15T23:04:40.562Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T23:37:17.212Z [INFO]: MongoDB Connected: localhost
+2024-09-15T23:37:17.215Z [INFO]: Admin
+2024-09-15T23:37:17.246Z [INFO]: Admin user already exists, no need to create one.
+2024-09-15T23:42:57.958Z [INFO]: MongoDB Connected: localhost
+2024-09-15T23:42:57.960Z [INFO]: Admin
+2024-09-15T23:42:57.987Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T03:02:47.917Z [INFO]: MongoDB Connected: localhost
+2024-09-16T03:02:47.920Z [INFO]: Admin
+2024-09-16T03:02:47.954Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T03:15:48.985Z [INFO]: MongoDB Connected: localhost
+2024-09-16T03:15:48.988Z [INFO]: Admin
+2024-09-16T03:15:49.014Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T05:09:28.963Z [INFO]: MongoDB Connected: localhost
+2024-09-16T05:09:28.965Z [INFO]: Admin
+2024-09-16T05:09:28.987Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T05:34:12.263Z [INFO]: MongoDB Connected: localhost
+2024-09-16T05:34:12.266Z [INFO]: Admin
+2024-09-16T05:34:12.293Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T05:48:45.297Z [INFO]: MongoDB Connected: localhost
+2024-09-16T05:48:45.299Z [INFO]: Admin
+2024-09-16T05:48:45.321Z [INFO]: No Admin found, creating initial admin...
+2024-09-16T05:48:45.417Z [INFO]: Admin user created successfully
+2024-09-16T05:53:01.622Z [INFO]: MongoDB Connected: localhost
+2024-09-16T05:53:01.624Z [INFO]: Admin
+2024-09-16T05:53:01.645Z [INFO]: No Admin found, creating initial admin...
+2024-09-16T05:53:01.735Z [INFO]: Admin user created successfully
+2024-09-16T06:31:37.056Z [INFO]: MongoDB Connected: localhost
+2024-09-16T06:31:37.058Z [INFO]: Admin
+2024-09-16T06:31:37.079Z [INFO]: Admin user already exists, no need to create one.
+2024-09-16T06:34:23.708Z [INFO]: MongoDB Connected: localhost
+2024-09-16T06:34:23.711Z [INFO]: Admin
+2024-09-16T06:34:23.740Z [INFO]: Admin user already exists, no need to create one.
